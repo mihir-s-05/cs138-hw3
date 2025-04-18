@@ -1,6 +1,6 @@
 alphabet: {a}
 start: q023
-accepting: {q023, q14, q12, q15}
+accepting: {q023, q14, q12, q15, q23}
 q023 (a -> q14)
 q14 (a -> q35)
 q35 (a -> q12)
