@@ -1,0 +1,10 @@
+alphabet: {a}
+start: q023
+accepting: {q023, q14, q12, q15}
+q023 (a -> q14)
+q14 (a -> q35)
+q35 (a -> q12)
+q12 (a -> q34)
+q34 (a -> q15)
+q15 (a -> q23)
+q23 (a -> q14)
